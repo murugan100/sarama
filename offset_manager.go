@@ -411,7 +411,7 @@ func (om *offsetManager) handleResponse(broker *Broker, req *OffsetCommitRequest
 				// let the user know *and* try redispatching - if topic-auto-create is
 				// enabled, redispatching should trigger a metadata req and create the
 				// topic; if not then re-dispatching won't help, but we've let the user
-				// know and it shouldn't hurt either (see https://github.com/IBM/sarama/issues/706)
+				// know and it shouldn't hurt either (see https://github.com/murugan100/sarama/issues/706)
 				fallthrough
 			default:
 				// dunno, tell the user and try redispatching

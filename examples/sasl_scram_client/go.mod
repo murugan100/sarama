@@ -3,7 +3,7 @@ module github.com/murugan100/sarama/examples/sasl_scram_client
 go 1.23.0
 
 require (
-	github.com/IBM/sarama v1.45.0
+	github.com/murugan100/sarama v1.45.0
 	github.com/xdg-go/scram v1.1.2
 )
 

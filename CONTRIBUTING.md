@@ -1,7 +1,7 @@
 # Contributing
 
-[fork]: https://github.com/IBM/sarama/fork
-[pr]: https://github.com/IBM/sarama/compare
+[fork]: https://github.com/murugan100/sarama/fork
+[pr]: https://github.com/murugan100/sarama/compare
 [released]: https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license
 
 Hi there! We are thrilled that you would like to contribute to Sarama.

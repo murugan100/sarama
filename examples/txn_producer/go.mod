@@ -3,7 +3,7 @@ module github.com/murugan100/sarama/examples/txn_producer
 go 1.23.0
 
 require (
-	github.com/IBM/sarama v1.45.0
+	github.com/murugan100/sarama v1.45.0
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
 )
 

@@ -3,7 +3,7 @@ module github.com/murugan100/sarama/examples/interceptors
 go 1.23.0
 
 require (
-	github.com/IBM/sarama v1.45.0
+	github.com/murugan100/sarama v1.45.0
 	go.opentelemetry.io/otel v1.29.0
 	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v1.29.0
 	go.opentelemetry.io/otel/sdk v1.29.0

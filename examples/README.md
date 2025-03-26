@@ -1,10 +1,10 @@
 # Sarama examples
 
-This folder contains example applications to demonstrate the use of Sarama. For code snippet examples on how to use the different types in Sarama, see [Sarama's API documentation on pkg.go.dev](https://pkg.go.dev/github.com/IBM/sarama)
+This folder contains example applications to demonstrate the use of Sarama. For code snippet examples on how to use the different types in Sarama, see [Sarama's API documentation on pkg.go.dev](https://pkg.go.dev/github.com/murugan100/sarama)
 
 #### HTTP server
 
-[http_server](./http_server) is a simple HTTP server uses both the sync producer to produce data as part of the request handling cycle, as well as the async producer to maintain an access log. It also uses the [mocks subpackage](https://pkg.go.dev/github.com/IBM/sarama/mocks) to test both.
+[http_server](./http_server) is a simple HTTP server uses both the sync producer to produce data as part of the request handling cycle, as well as the async producer to maintain an access log. It also uses the [mocks subpackage](https://pkg.go.dev/github.com/murugan100/sarama/mocks) to test both.
 
 #### Interceptors
 

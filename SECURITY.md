@@ -4,7 +4,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-The easiest way to report a security issue is privately through GitHub [here](https://github.com/IBM/sarama/security/advisories/new).
+The easiest way to report a security issue is privately through GitHub [here](https://github.com/murugan100/sarama/security/advisories/new).
 
 See [Privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability) for full instructions.
 

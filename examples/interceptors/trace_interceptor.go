@@ -20,7 +20,7 @@ type OTelInterceptor struct {
 // headers with the span data.
 func NewOTelInterceptor(brokers []string) *OTelInterceptor {
 	oi := OTelInterceptor{}
-	oi.tracer = sdktrace.NewTracerProvider().Tracer("github.com/IBM/sarama/examples/interceptors")
+	oi.tracer = sdktrace.NewTracerProvider().Tracer("github.com/murugan100/sarama/examples/interceptors")
 
 	// These are based on the spec, which was reachable as of 2020-05-15
 	// https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/trace/semantic_conventions/messaging.md
