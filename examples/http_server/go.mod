@@ -1,8 +1,8 @@
-module github.com/IBM/sarama/examples/http_server
+module github.com/murugan100/sarama/examples/http_server
 
 go 1.23.0
 
-require github.com/IBM/sarama v1.45.0
+require github.com/murugan100/sarama v1.45.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -25,4 +25,4 @@ require (
 	golang.org/x/net v0.37.0 // indirect
 )
 
-replace github.com/IBM/sarama => ../../
+replace github.com/murugan100/sarama => ../../

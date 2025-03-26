@@ -8,7 +8,7 @@ import (
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/trace"
 
-	"github.com/IBM/sarama"
+	"github.com/murugan100/sarama"
 )
 
 type OTelInterceptor struct {

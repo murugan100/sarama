@@ -1,4 +1,4 @@
-module github.com/IBM/sarama
+module github.com/murugan100/sarama
 
 go 1.23.0
 

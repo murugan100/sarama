@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/IBM/sarama"
+	"github.com/murugan100/sarama"
 )
 
 func TestMockConsumerImplementsConsumerInterface(t *testing.T) {

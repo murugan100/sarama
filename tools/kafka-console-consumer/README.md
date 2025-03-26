@@ -5,7 +5,7 @@ messages on the standard output.
 
 ### Installation
 
-    go get github.com/IBM/sarama/tools/kafka-console-consumer
+    go get github.com/murugan100/sarama/tools/kafka-console-consumer
 
 ### Usage
 

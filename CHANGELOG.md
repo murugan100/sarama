@@ -257,7 +257,7 @@ Note: this is the first release after the transition of Sarama ownership from Sh
 
 ### :rotating_light: Breaking Changes
 
-- chore: migrate module to github.com/IBM/sarama by @dnwe in https://github.com/IBM/sarama/pull/2492
+- chore: migrate module to github.com/murugan100/sarama by @dnwe in https://github.com/IBM/sarama/pull/2492
 - fix: restore (\*OffsetCommitRequest) AddBlock func by @dnwe in https://github.com/IBM/sarama/pull/2494
 
 ### :bug: Fixes

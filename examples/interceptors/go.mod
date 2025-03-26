@@ -1,4 +1,4 @@
-module github.com/IBM/sarama/examples/interceptors
+module github.com/murugan100/sarama/examples/interceptors
 
 go 1.23.0
 
@@ -37,4 +37,4 @@ require (
 	golang.org/x/sys v0.31.0 // indirect
 )
 
-replace github.com/IBM/sarama => ../../
+replace github.com/murugan100/sarama => ../../

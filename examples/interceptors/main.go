@@ -12,7 +12,7 @@ import (
 
 	stdout "go.opentelemetry.io/otel/exporters/stdout/stdoutmetric"
 
-	"github.com/IBM/sarama"
+	"github.com/murugan100/sarama"
 )
 
 var (

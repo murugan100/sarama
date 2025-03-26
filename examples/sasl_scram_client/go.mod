@@ -1,4 +1,4 @@
-module github.com/IBM/sarama/examples/sasl_scram_client
+module github.com/murugan100/sarama/examples/sasl_scram_client
 
 go 1.23.0
 
@@ -31,4 +31,4 @@ require (
 	golang.org/x/text v0.23.0 // indirect
 )
 
-replace github.com/IBM/sarama => ../../
+replace github.com/murugan100/sarama => ../../

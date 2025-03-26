@@ -1,4 +1,4 @@
-module github.com/IBM/sarama/examples/txn_producer
+module github.com/murugan100/sarama/examples/txn_producer
 
 go 1.23.0
 
@@ -27,4 +27,4 @@ require (
 	golang.org/x/net v0.37.0 // indirect
 )
 
-replace github.com/IBM/sarama => ../../
+replace github.com/murugan100/sarama => ../../
