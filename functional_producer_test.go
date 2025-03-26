@@ -19,6 +19,7 @@ import (
 	"github.com/murugan100/sarama/internal/toxiproxy"
 )
 
+// dummy comment
 const TestBatchSize = 1000
 
 func TestFuncProducing(t *testing.T) {
